@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1B5E9B</color>
+    <color name="secondary">#2E7D32</color>
+    <color name="background">#FAFAFA</color>
+
+    <color name="category_a">#1565C0</color>
+    <color name="category_b">#2E7D32</color>
+    <color name="category_c">#616161</color>
+    <color name="category_d">#6A1B9A</color>
+
+    <color name="hire_regular">#1565C0</color>
+    <color name="hire_unlimited">#E65100</color>
+    <color name="hire_term">#616161</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

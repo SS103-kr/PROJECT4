@@ -1,0 +1,28 @@
+# Built artifacts
+*.apk
+*.ap_
+*.aab
+
+# Files containing passwords/keys
+*.jks
+*.keystore
+*.pepk
+
+# IDE Specific
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build/
+.kotlin/
+
+# Claude / AI Assistant settings
+.claude/
+
+
